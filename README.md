@@ -1950,7 +1950,6 @@ _Related: [Software Development - Low Code](#software-development---low-code)_
 - [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`
 - [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
 - [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
-- [Pi Forge](https://github.com/huiyu9144/pi-forge) - Local-first AI coding agent with pure Web UI, ~80 token system prompt, ~0.3s first token latency, and 90%+ lower cost. Self-hosted alternative to Claude Code/Codex CLI. ([Source Code](https://github.com/huiyu9144/pi-forge)) `MIT` `Nodejs/Docker`
 
 
 ### Software Development - Localization
